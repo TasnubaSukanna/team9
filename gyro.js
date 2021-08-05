@@ -1,4 +1,4 @@
 
-const rice = 100
+const rice = 1000
 
 const chicken = 40
